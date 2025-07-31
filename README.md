@@ -7,6 +7,8 @@ Instructions:
 - npm install
 - npm run start
 
+See sample.env for environment variables that need to be set.
+
 View:
 
 - Replit:
